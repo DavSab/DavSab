@@ -1,6 +1,6 @@
 ### Hello 👋
 
-#### Je m'appelle David et je suis développeur JavaScript, j'ai suivi une formation chez ['clock](https://oclock.io/formations/developpeur-web-fullstack-javascript) avec une spécialisation Data et API
+#### Je m'appelle David et je suis développeur JavaScript, j'ai suivi une formation chez [O'clock](https://oclock.io/formations/developpeur-web-fullstack-javascript) avec une spécialisation Data et API
 
 #### Je travaille en ce moment sur un projet de création collaborative de musique
 
