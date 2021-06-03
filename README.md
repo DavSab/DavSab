@@ -4,6 +4,15 @@
 
 #### Je travaille en ce moment sur un projet de création collaborative de musique
 
+#### Sur mon profil vous trouverez deux API : l'une utilise un ORM, l'autre un DataMapper
+
+#### Technos utilsées : Node - Postgres - EJS - Sequelize - Tailwind (en cours)
+
+#### Technos dans la wishlist :
+- les problématiques DevOps avec Docker et AWS
+- les API construites avec GraphQL
+- de la 3D dans le naviateur avec ThreeJS
+
 
 - 🌱 Je me forme à React 
 - 👯 Je cherche un emploi à Paris
