@@ -20,4 +20,4 @@
 - 📫 davidsabri@tuta.io
 
 
-![Cover](https://github.com/DavSab/DavSab/blob/master/img/ocean0000-min (1).png )
+![Cover](https://github.com/DavSab/DavSab/blob/master/img/ocean0000-min(1).png)
