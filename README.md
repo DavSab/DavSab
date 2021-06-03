@@ -13,7 +13,7 @@
 - les API construites avec GraphQL
 - de la 3D dans le naviateur avec ThreeJS
 
-
+#### Et sinon 
 - 🌱 Je me forme à React 
 - 👯 Je cherche un emploi à Paris
 - 💬 [Voici mon CV](https://www.linkedin.com/in/davidsabri/)
