@@ -14,7 +14,7 @@
 - les API construites avec GraphQL
 - MongoDB
 - l'admin sous Linux
-- de la 3D dans le navigateur avec ThreeJS
+- de la 3D dans le navigateur avec ThreeJS (la photo de background date de l'époque où je bidouillais C4D)
 
 #### Et sinon 
 - 🌱 Je me forme à React 
