@@ -12,6 +12,7 @@
 #### Technos dans la wishlist :
 - les problématiques DevOps avec Docker et AWS
 - les API construites avec GraphQL
+- MongoDB
 - l'admin sous Linux
 - de la 3D dans le naviateur avec ThreeJS
 
