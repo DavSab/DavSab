@@ -5,7 +5,9 @@
 
 #### Je travaille en ce moment sur un projet de création collaborative de musique
 
-#### Sur mon profil vous trouverez deux API : l'une utilise un ORM, l'autre un DataMapper
+#### Back end : Sur mon profil vous trouverez deux API : l'une utilise un ORM, l'autre un DataMapper
+
+#### Front end : Un task tracker construit en React, une app de messagerie en ligne qui utilise React, Firebase et Material UI
 
 #### Technos utilsées : Node - Postgres - EJS - Sequelize - Tailwind (en cours)
 
